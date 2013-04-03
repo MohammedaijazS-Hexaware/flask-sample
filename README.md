@@ -1,4 +1,4 @@
 flask-sample
 ===========
 
-Flask sample application with unit test
+Flask sample application with a unit test
