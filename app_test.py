@@ -3,7 +3,7 @@ from app import app
 import unittest
 import json
 
-class StunticonTestCase(unittest.TestCase):
+class CitiesTestCase(unittest.TestCase):
 
   def test_index(self):
     tester = app.test_client(self)
